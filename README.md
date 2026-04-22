@@ -4,7 +4,7 @@ Splash
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Splash TV</title>
+<title>Splash</title>
 
 <style>
 body {
@@ -68,7 +68,7 @@ button:hover {
 
 <body>
 
-<header>🌊 Splash TV</header>
+<header>Splash Brasil</header>
 
 <div class="container">
 
